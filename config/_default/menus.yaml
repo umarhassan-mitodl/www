@@ -1,0 +1,9 @@
+mainmenu:
+- identifier: 0e254d5b-9b0d-4fa0-87f4-1e0f824f1059
+  name: mit
+  pageRef: /external-resources/mit
+  weight: 10
+- identifier: b5f3500e-8aa7-42af-b98d-d51ad3bbf59e
+  name: google
+  pageRef: /external-resources/google
+  weight: 20
